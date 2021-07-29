@@ -425,7 +425,18 @@ height: 80px;
     position: relative;
     transition: all 5s ease-in-out;
   }
+
+  #popup2>.popup>img {
+      width: 100%;
+  }
   
+  #popup3>.popup>img {
+    width: 100%;
+}
+
+#popup4>.popup>img {
+    width: 100%;
+}
   .popup h2 {
     margin-top: 0;
     color: #333;
